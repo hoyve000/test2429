@@ -1,7 +1,12 @@
 h1 {
  color: blue;
 }
-
+a:link {
+    background-color: orange;
+}
+p.a {
+    font-family: "Times New Roman", Times, serif;
+}
 p {
  color: red;
 }
